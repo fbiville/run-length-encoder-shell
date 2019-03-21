@@ -1,0 +1,3 @@
+= Run length encoder in Shell
+
+Because we can!
